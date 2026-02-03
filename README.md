@@ -23,4 +23,4 @@ The solutions are organized by weeks, covering topics from basic variables to ob
 ## 📝 Author
 **Arda Ugur**
 - Math & Computer Science Student at Istanbul Kültür University
-- LinkedIn: [https://www.linkedin.com/in/arda-u%C4%9Fur-11667b330/]
+- LinkedIn: [Arda Uğur](https://www.linkedin.com/in/arda-u%C4%9Fur-11667b330/)
